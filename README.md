@@ -1,5 +1,5 @@
 # Starbucks-Site
-Website Starbucks 
+Website Starbucks (Não completo)
 
 https://www.youtube.com/watch?v=91Q6RvKvd7o&ab_channel=OnlineTutorials (6:53)  não responsivo
 
